@@ -1,20 +1,20 @@
 # api_botdevop/
 
 Estrutura e arquivos gerados:
-
-/api_botdevop/
-├── cluster.js
-├── autocura.js
-├── install_if_missing.js
-├── fixador_llm.js
-├── github_auto_pr.js
-├── .gitignore
-├── .env.example
-├── package.json
-├── README.md
-├── README_child.md
-└── logs/
-    └── devop-errors.log
+    
+    /api_botdevop/
+    ├── cluster.js
+    ├── autocura.js
+    ├── install_if_missing.js
+    ├── fixador_llm.js
+    ├── github_auto_pr.js
+    ├── .gitignore
+    ├── .env.example
+    ├── package.json
+    ├── README.md
+    ├── README_child.md
+    └── logs/
+        └── devop-errors.log
 
 
 ---
