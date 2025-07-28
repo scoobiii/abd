@@ -1,0 +1,8 @@
+# .gitignore
+# v0.3.0 - 2025-07-28
+
+node_modules/
+.env
+logs/
+*.log
+.DS_Store
