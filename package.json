@@ -1,0 +1,16 @@
+{
+  "name": "api_botdevop",
+  "version": "0.3.0",
+  "description": "Sistema vivo de autocura DevOps com integração GitHub PR automático",
+  "main": "cluster.js",
+  "scripts": {
+    "start": "node cluster.js",
+    "install-check": "node install_if_missing.js",
+    "test": "echo \"No tests configured\""
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
